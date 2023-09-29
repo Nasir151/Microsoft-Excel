@@ -31,7 +31,7 @@ The invoice also includes the courier charges rate card at weight slab and pinco
 
 For the first 0.5 KG, a "fixed" rate is applicable. For each additional 0.5 KG, an "additional" weight charge in the same proportion is applicable. The total charges will be the sum of the "fixed" and "total additional" charges, if any.
 
-### Output Data
+### Output Data 1
 
 The goal is to create a resultant CSV file with the following columns:
 
