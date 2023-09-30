@@ -52,10 +52,6 @@ To create these reports, we will use spreadsheet software like Microsoft Excel o
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-# Sales Analysis Project
-
-Welcome to the Sales Analysis Project! In this project, we will dive into the data of a retail store chain called LES and perform various analyses to gain insights into their sales performance and customer behavior. Let's break down the tasks and questions step by step.
-
 ## Task 1: Sales Calculation and Customer ID
 
 ### Question 1: Calculate Sales for Transaction ID "31245032" and Product ID "10000338"
