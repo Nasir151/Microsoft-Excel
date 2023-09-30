@@ -1,4 +1,4 @@
-# Project 1: LES Retail Store Chain - Key Performance Indicators (KPI) Analysis
+# LES Retail Store Chain - Key Performance Indicators (KPI) Analysis
 
 ## Overview
 
@@ -50,6 +50,44 @@ To create these reports, we will use spreadsheet software like Microsoft Excel o
 
 5. **Presentation:** Present the reports in a clear and understandable format.
 
-## Conclusion
+---------------------------------------------------------------------------------------------------------------------------------------
 
-By analyzing key performance indicators through these reports, LES can make informed decisions to improve its retail operations, customer engagement, and product offerings. This project will provide valuable insights into the retail chain's performance and help drive future strategies.
+# Sales Analysis Project
+
+Welcome to the Sales Analysis Project! In this project, we will dive into the data of a retail store chain called LES and perform various analyses to gain insights into their sales performance and customer behavior. Let's break down the tasks and questions step by step.
+
+## Task 1: Sales Calculation and Customer ID
+
+### Question 1: Calculate Sales for Transaction ID "31245032" and Product ID "10000338"
+
+To calculate sales for a specific transaction, we'll create a new column next to "Price (INR)" and compute sales using the formula: Sales = Quantity * Price.
+
+### Question 2: Customer ID for the Highest Sales
+
+To find the customer ID for the highest sales, we need to identify the transaction with the highest sales amount.
+
+## Task 2: Festival Offer Sales Analysis
+
+The sales manager wants to understand the sales during the festival offer period from 8th to 15th December. We will compute sales by each product with product descriptions for this period.
+
+### Question 1: Product Description of the Product with the Highest Sales
+
+The product description of the product with the highest sales during the festival offer period is: [Product Description]
+
+## Task 3: Average Revenue Per User (ARPU) by State
+
+The goal is to calculate the Average Revenue Per User (ARPU) for each state, which is defined as Total Revenue by the State divided by the Total Number of Customers in the State.
+
+### Question 1: Average Revenue Per Customer for Maharashtra
+
+The Average Revenue Per Customer for the state of Maharashtra is: [ARPU Value for Maharashtra]
+
+## Task 4: Sales by Category with City Level Breakup
+
+The sales manager wants to determine which category of products sells more in each city.
+
+### Question 1: Sales Amount of 'Cereals' in Pune
+
+The sales amount of 'Cereals' in Pune is: [Sales Amount for Cereals in Pune]
+
+The sales amount of 'Cereals' in Pune is: [Sales Amount for Cereals in Pune]
