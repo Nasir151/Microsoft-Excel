@@ -10,13 +10,11 @@ Before we can create the reports, we need to gather and organize the necessary d
 
 ### Data Sources:
 
-1. **Customer Transaction Data:** This dataset will provide information about customers and their transactions, including transaction amounts.
+1. **Product Sales Data:** We will need data on product sales, including product names, quantities sold, and revenue generated.
 
-2. **Product Sales Data:** We will need data on product sales, including product names, quantities sold, and revenue generated.
+2. **City and State Data:** Information about the city and state where each transaction occurred.
 
-3. **City and State Data:** Information about the city and state where each transaction occurred.
-
-4. **Product Category Data:** Details about product categories, which will be used to categorize sales.
+3. **Product Category Data:** Details about product categories, which will be used to categorize sales.
 
 ## Report Details
 
