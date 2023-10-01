@@ -22,17 +22,25 @@ Before we can create the reports, we need to gather and organize the necessary d
 
 This report will identify and rank customers based on their transaction amounts. It will provide insights into the most valuable customers for LES.
 
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/4c2c1be8-db29-411f-865f-4878342c7e37)
+
 ### Report 2: Product Sales for a Period
 
 This report will analyze product sales for a specified period. It will include information on the most sold products, revenue generated, and quantities sold.
+
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/b7c19e6a-e3fc-4edf-b4bd-036c6aa23ad5)
 
 ### Report 3: ARPU for City and State
 
 ARPU (Average Revenue Per User) will be calculated for different cities and states. This will help understand revenue trends across different geographical regions.
 
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/53c79002-9c67-4995-930d-05d20f6c6de9)  ![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/ffbf37b1-2b20-493b-9cb5-4760db038f91)
+
 ### Report 4: Sales by Category with City Level Breakup
 
 This report will break down sales by product category, providing insights into which categories are performing well in each city.
+
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/8de155d7-b77b-401c-b5bf-2bd80855a82d)
 
 ## Analysis Tools
 
@@ -83,7 +91,5 @@ The Average Revenue Per Customer for the state of Maharashtra is: [ARPU Value fo
 The sales manager wants to determine which category of products sells more in each city.
 
 ### Question 1: Sales Amount of 'Cereals' in Pune
-
-The sales amount of 'Cereals' in Pune is: [Sales Amount for Cereals in Pune]
 
 The sales amount of 'Cereals' in Pune is: [Sales Amount for Cereals in Pune]
