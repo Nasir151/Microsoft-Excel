@@ -64,19 +64,22 @@ To create these reports, we will use spreadsheet software like Microsoft Excel o
 
 ### Question 1: Calculate Sales for Transaction ID "31245032" and Product ID "10000338"
 
-To calculate sales for a specific transaction, we'll create a new column next to "Price (INR)" and compute sales using the formula: Sales = Quantity * Price.
+    To calculate sales for a specific transaction, we'll create a new column next to "Price (INR)" and compute sales
+    using the formula: Sales = Quantity * Price.
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/0e6ed98b-ea3d-4de3-89f4-b48d21b449d7)
 
 ### Question 2: Customer ID for the Highest Sales
 
-To find the customer ID for the highest sales, we need to identify the transaction with the highest sales amount.
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/0f74111d-3d59-4117-bda7-03f05b89a88c)
 
 ## Task 2: Festival Offer Sales Analysis
 
 The sales manager wants to understand the sales during the festival offer period from 8th to 15th December. We will compute sales by each product with product descriptions for this period.
 
-### Question 1: Product Description of the Product with the Highest Sales
+### Question 1: What is the product description of the product with the highest sales? What is the sales amount of the product with the highest sales?
 
-The product description of the product with the highest sales during the festival offer period is: [Product Description]
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/f433c3d0-e6e5-493c-af27-3bd2e804400a)
 
 ## Task 3: Average Revenue Per User (ARPU) by State
 
@@ -84,7 +87,7 @@ The goal is to calculate the Average Revenue Per User (ARPU) for each state, whi
 
 ### Question 1: Average Revenue Per Customer for Maharashtra
 
-The Average Revenue Per Customer for the state of Maharashtra is: [ARPU Value for Maharashtra]
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/9830b1ab-9dbd-4105-b0d6-cf5786aedc3d)
 
 ## Task 4: Sales by Category with City Level Breakup
 
@@ -92,4 +95,4 @@ The sales manager wants to determine which category of products sells more in ea
 
 ### Question 1: Sales Amount of 'Cereals' in Pune
 
-The sales amount of 'Cereals' in Pune is: [Sales Amount for Cereals in Pune]
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/772352ab-972f-4c0b-8c03-5f0b4b8045da)
