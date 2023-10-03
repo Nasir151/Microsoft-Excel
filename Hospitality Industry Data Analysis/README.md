@@ -49,13 +49,23 @@ Let’s see the “created_at” column first.
 
 1.1: From which dataset can we get “Booking created at Date (BCD)”?
 
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/36c6ca5b-fcbe-44e2-860b-74f2b3ef347e)
+
 1.2: After we figure out “Booking created at Date (BCD)” data, we need squad data for the respective booking date. Let’s get appropriate squad data. As we need two columns together, which dataset is most appropriate to get “squad” information wrt the “Booking created at Date (BCD)” data?
+
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/bef4e223-8c53-425a-ac82-d162fb6da091)
 
 1.3: What are the common keys (column) between the “Booking Data” and “Squad Mapping” datasets?
 
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/dc339a64-af8e-4cc0-86ef-8abd869403f9)
+
 1.4: Is it possible that the same squad can have multiple bookings on any given day? For example, can squad “Himachal Pradesh” have multiple bookings on 2021-03-05 or 2021-03-18? We will urge you to analyze the dataset to answer this question.
 
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/27886254-a16c-4843-b5f1-c90fa3bd6c18)
+
 1.5: As we are analyzing the data based on squad and for each booking created at date (BCD), How many unique combinations of (Squad, BCD) do we have?
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/3b9c2e04-7c57-4768-b227-b0cca9cb5d80)
 
 #### Question 2: now, let’s work on the next column, i.e total_revenue_per_day
 
@@ -76,6 +86,8 @@ Let’s understand it further, What does a bolded statement mean?
 Total revenue for each Squad at BDC (THAT booking created date). This could be for any booking dates, be it next month or same month or any date in the future.
 
 2.1: What is the Total Revenue Per Day (total_revenue_per_day) for the “Uttarakhand” squad on “2021-05-01”?
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/1175900c-20f9-47a6-bf74-672d66226e1c)
 
 #### Question 3: Now, let’s solve “current_month_revenue_per_day
 
@@ -101,34 +113,68 @@ Which records fall under the same month from the following dates (created_at - c
 
 3.1: Now you have identified this manually for few records but we have 13436 records hence we can’t do the same for all records. Create an additional column in the “Booking data” to check how many records are where which has bookings(i.e., check-in and checkout) in the same month as the booking created_at date (BCD).
 
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/20fe4316-aef7-4716-b5f2-21ca41786e9c)
+
 3.2: Let’s explore the bookings more in-depth! Find out the no. of bookings(i.e., check-in and checkout) which ends in the same irrespective of booking created_at date (BCD). Submit your answer below.
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/35437d38-ad89-4352-9656-fb971b277ad5)
 
 3.3: Find out the no. of bookings(i.e., check-in and checkout) where checkin happened in one month, for example, 2021-05-24, and checkout happened in the next month, i.e., 2021-06-03. Please consider the year while solving the problem.
 
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/c5d8f664-4d8d-4c53-a19a-e8824e51f56d)
+
 3.4: Find out the no. of bookings(i.e., check-in and checkout) where checkin happened in one month, for example, 2021-05-15, and checkout happened in the next to next month i.e., after 2 months, i.e., 2021-07-14.
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/95f50afb-bdad-4f80-87b7-a032c81a138b)
 
 #### Question 4: What is “current_month_revenue_per_day” for the “Lonavala” squad on “2021-05-01”?
 
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/39c2fd21-68d5-4d57-8fac-e04b02163289)
+
 #### Question 5: What is “current_month_revenue_per_day” for the “Lonavala” squad on “2021-06-15”?
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/87bc57a1-94cb-4b6d-9cbf-b3344b730eeb)
 
 #### Question 6: What is “current_month_revenue_per_day” for the “Alibaug” squad on “2021-05-31”?
 
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/617c9774-9946-44cf-9727-995af09fe489)
+
 #### Question 7: What is “current_month_revenue_per_day” for the “Ooty” squad on “2021-02-26”?
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/f46e7f7c-829f-431e-a198-de92bf93942b)
 
 #### Question 8: What is “current_month_revenue_per_day” for the “Lonavala” squad on “2021-02-27”?
 
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/a41a206e-35f7-45dc-9a46-32cf0cbc2f12)
+
 #### Question 9: What is “current_month_revenue_per_day” for the “Himachal Pradesh” squad on “2021-07-14”?
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/58f2a7e0-5384-4ae9-8d6f-42298f3773d1)
 
 #### Question 10: What is “current_month_revenue_per_day” for the “Nashik + Pune” squad on “2021-06-26”?
 
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/c07a7620-087a-4403-a548-152c8926835d)
+
 #### Question 11: What is “room_nights_per_day” for the “Ooty” squad on “2021-12-20”?
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/484448be-bfcb-4161-8bbc-ffa1decb40f7)
 
 #### Question 12: What is “room_nights_per_day” for the “Goa” squad on “2021-05-04”?
 
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/a2b1d722-578f-4a75-96d8-bda813b11ce4)
+
 #### Question 13: What is “total_cancellation_nights_per_day” for the “Ooty” squad on “2021-04-14”?
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/dabc71e0-4b88-4046-952d-292d2c380d3e)
 
 #### Question 14: What is “total_cancellation_value_per_day” for the “Ooty” squad on “2021-12-20”?
 
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/08f26890-a513-4424-8807-985b136cd421)
+
 #### Question 15: What is “total_booking_per_month” for the “Ooty” squad on “2021-12-20”?
 
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/6c9d7dc4-39b2-4287-b79d-cb1a1c7b753d)
+
 #### Question 16: What is “total_room_nights_per_month” for the “Ooty” squad on “2021-12-20”?
+
+![Capture](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/40cae5ad-64b6-4aac-9576-a50ea277e2d0)
