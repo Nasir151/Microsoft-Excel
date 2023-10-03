@@ -35,12 +35,10 @@ For the first 0.5 KG, a "fixed" rate is applicable. For each additional 0.5 KG, 
 
 The goal is to create a resultant CSV file with the following columns:
 
-![image](https://github.com/Nasir151/Microsoft-Excel/assets/94509995/b6909e9a-584b-4b82-95a2-d953d9158d78)
-
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/fa812f0e-61e4-41f1-aac2-e1c850f4ceb5)
 
 ### Output Data 2
 Create a summary table
 
-Summary	Count	Amount
-	
-![image](https://github.com/Nasir151/Microsoft-Excel/assets/94509995/1e8dfe11-f906-424e-9165-97d55822e1c6)
+![image](https://github.com/Nasir151/Microsoft-Excel-Projects/assets/94509995/c821f9c1-80f2-4d43-b936-94b2c14e839b)
+
