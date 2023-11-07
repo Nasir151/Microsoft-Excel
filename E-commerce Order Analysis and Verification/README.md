@@ -2,7 +2,7 @@
 
 ### Business Scenario
 
-You are a data analyst working for an e-commerce company in India (referred to as "X"). X receives thousands of orders daily through their website and collaborates with multiple courier companies for order deliveries. These courier companies charge X based on two factors: the weight of the products and the distance between X's warehouse (pickup location) and the customer's delivery address (destination location). On average, the delivery charge is approximately Rs. 100 per shipment. Given that X ships around 1,00,000 orders per month, they incur significant monthly expenses, and they want to ensure the accuracy of these charges levied by their courier partners.
+X receives thousands of orders daily through their website and collaborates with multiple courier companies for order deliveries. These courier companies charge X based on two factors: the weight of the products and the distance between X's warehouse (pickup location) and the customer's delivery address (destination location). On average, the delivery charge is approximately Rs. 100 per shipment. Given that X ships around 1,00,000 orders per month, they incur significant monthly expenses, and they want to ensure the accuracy of these charges levied by their courier partners.
 
 ### Input Data
 
